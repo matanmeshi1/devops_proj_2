@@ -1,5 +1,5 @@
 # devops_proj_2
-This project is demonstration on how to wrk with s3 using boto3
+This project is a demonstration on how to wrk with s3 using boto3
 - It demonstrates how to create and delete buckets
 - How to Upload, copy, and delete files
 - How to change bucket configuration
